@@ -14,7 +14,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 Customer Churn Analysis for European Bank Customers
 
-File: 
+📄 [View My PDF Report](https://github.com/Adamrakhmadi/Data-Analysis-Portfolio/raw/main/data_analyst_report.pdf)
 
 Goal: To determine what factors to people will stay in the bank longer.
 
