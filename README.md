@@ -29,7 +29,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Sales Insight and Pricing Impact Simulation with ML Algorithms
 In this section I will doing data analytics projects sales product to produce insight about revenue, profit .
 
-**code:** [Analyzing sales and profit store.ipynb](https://github.com/Adamrakhmadi/PortfolioProjects/blob/main/Sales_Adam_Updated.ipynb)
+💻 **code:** [Analyzing sales and profit store.ipynb](https://github.com/Adamrakhmadi/PortfolioProjects/blob/main/Sales_Adam_Updated.ipynb)
 
 **Goal:** To analyze product sales data and simulate pricing strategies using machine learning models to support profit optimization..
 
